@@ -21,17 +21,17 @@
     "FiltersWebSite": "1.0.0",
     "FormatterWebSite": "1.0.0",
     "HtmlGenerationWebSite": "1.0.0",
-    "Microsoft.AspNetCore.Mvc": "1.0.6",
-    "Microsoft.AspNetCore.Mvc.Formatters.Xml": "1.0.6",
+    "Microsoft.AspNetCore.Mvc": "1.0.7",
+    "Microsoft.AspNetCore.Mvc.Formatters.Xml": "1.0.7",
     "Microsoft.AspNetCore.Mvc.TestCommon": {
       "version": "1.0.0-*",
       "type": "build"
     },
     "Microsoft.AspNetCore.Mvc.TestConfiguration": "1.0.0",
-    "Microsoft.AspNetCore.TestHost": "1.0.5",
-    "Microsoft.AspNetCore.WebUtilities": "1.0.4",
-    "Microsoft.Extensions.Configuration.Json": "1.0.2",
-    "Microsoft.Extensions.Logging.Testing": "1.0.2",
+    "Microsoft.AspNetCore.TestHost": "1.0.6",
+    "Microsoft.AspNetCore.WebUtilities": "1.0.5",
+    "Microsoft.Extensions.Configuration.Json": "1.0.3",
+    "Microsoft.Extensions.Logging.Testing": "1.0.3",
     "MvcSandbox": "1.0.0",
     "RazorPageExecutionInstrumentationWebSite": "1.0.0",
     "RazorWebSite": "1.0.0",
@@ -48,7 +48,7 @@
     "netcoreapp1.0": {
       "dependencies": {
         "Microsoft.NETCore.App": {
-          "version": "1.0.10",
+          "version": "1.0.11-servicing-005046-00",
           "type": "platform"
         }
       },

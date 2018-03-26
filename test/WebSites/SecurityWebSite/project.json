@@ -4,16 +4,16 @@
     "preserveCompilationContext": true
   },
   "dependencies": {
-    "Microsoft.AspNetCore.Authentication.Cookies": "1.0.5",
-    "Microsoft.AspNetCore.Server.Kestrel": "1.0.6",
-    "Microsoft.AspNetCore.Mvc": "1.0.6",
-    "Microsoft.AspNetCore.Hosting": "1.0.5"
+    "Microsoft.AspNetCore.Authentication.Cookies": "1.0.6",
+    "Microsoft.AspNetCore.Server.Kestrel": "1.0.7",
+    "Microsoft.AspNetCore.Mvc": "1.0.7",
+    "Microsoft.AspNetCore.Hosting": "1.0.6"
   },
   "frameworks": {
     "netcoreapp1.0": {
       "dependencies": {
         "Microsoft.NETCore.App": {
-          "version": "1.0.10",
+          "version": "1.0.11-servicing-005046-00",
           "type": "platform"
         }
       },
